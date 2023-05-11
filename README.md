@@ -15,3 +15,14 @@ SpaceX Data collection Api
 SpaceX EDA with Data Visualization
 
 Pandas
+
+# Día 3 - Miércoles
+Introducción a Machine Learning
+
+Predecir el valor de Bitcoin
+
+Folium
+
+Numpy 
+
+Regresión
