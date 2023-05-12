@@ -28,6 +28,7 @@ Numpy
 Regresión
 
 # Día 4 - Jueves
+Machine Learning Predicciones
+
 Interactive Visual Analytics con Folium
 
-Machine Learning Predicciones
