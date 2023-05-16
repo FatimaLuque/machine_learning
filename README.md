@@ -32,3 +32,6 @@ Machine Learning Predicciones
 
 Interactive Visual Analytics con Folium
 
+# Día 5 - Viernes
+Matplotlib & Seaborn 
+
