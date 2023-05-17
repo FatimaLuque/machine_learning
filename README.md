@@ -35,3 +35,8 @@ Interactive Visual Analytics con Folium
 # Día 5 - Viernes
 Matplotlib & Seaborn 
 
+# Día 6 - Martes
+Funciones
+
+Clases
+
