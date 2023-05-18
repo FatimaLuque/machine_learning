@@ -40,3 +40,6 @@ Funciones
 
 Clases
 
+# Día 7 - Miércoles
+Programación funcional
+
