@@ -43,3 +43,9 @@ Clases
 # Día 7 - Miércoles
 Programación funcional
 
+# Día 9 - Jueves
+SparkSession Teoría
+
+Primer RDD Toería
+
+Transformaciones y acciones sobre RDDs
